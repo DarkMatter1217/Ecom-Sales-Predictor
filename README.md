@@ -76,9 +76,5 @@ _Note: There may be other columns not listed depending on further transformation
 - Ready for downstream modeling or business dashboarding.
 
 
-## Credits
-
-- Data analysis and notebook by [Your Name/Team].
-- Data provided via Amazon Seller Account exports.
 
 
